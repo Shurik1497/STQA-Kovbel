@@ -1,1 +1,1 @@
-# STQA-Kovbel jjj
+# STQA-Kovbel
